@@ -1,0 +1,3 @@
+C:/Users/dudum/CLionProjects/Exercicio 1 Recursividade, Estrutura de Dados/cmake-build-debug/CMakeFiles/Exercicio_1_Recursividade__Estrutura_de_Dados.dir
+C:/Users/dudum/CLionProjects/Exercicio 1 Recursividade, Estrutura de Dados/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dudum/CLionProjects/Exercicio 1 Recursividade, Estrutura de Dados/cmake-build-debug/CMakeFiles/rebuild_cache.dir

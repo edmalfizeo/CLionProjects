@@ -1,0 +1,3 @@
+C:/Users/dudum/CLionProjects/Exercicio 2 Estruturas de dados/cmake-build-debug/CMakeFiles/Exercicio_2_Estruturas_de_dados.dir
+C:/Users/dudum/CLionProjects/Exercicio 2 Estruturas de dados/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dudum/CLionProjects/Exercicio 2 Estruturas de dados/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+# ninja log v5
+2	153	7315455614802442	CMakeFiles/Exercicio_1_Listas_Ordenadas_Estrutura_de_Dados.dir/main.c.obj	93ba432823289a2c
+154	380	7315455616951782	Exercicio_1_Listas_Ordenadas_Estrutura_de_Dados.exe	a8bf1505a51d97c9
+3	83	7309484338934796	CMakeFiles/Exercicio_1_Listas_Ordenadas_Estrutura_de_Dados.dir/insertionSort.c.obj	84fca6802caf6295
+12	82	7315455446847435	CMakeFiles/Exercicio_1_Listas_Ordenadas_Estrutura_de_Dados.dir/stringSort.c.obj	8a9d3dc0eb18fa09
+3	83	7309491982126442	CMakeFiles/Exercicio_1_Listas_Ordenadas_Estrutura_de_Dados.dir/bubbleSort.c.obj	a3c4d02b457fb3dd
+11	98	7309500921600174	CMakeFiles/Exercicio_1_Listas_Ordenadas_Estrutura_de_Dados.dir/selectionSort.c.obj	be25bdfec109ef6b
